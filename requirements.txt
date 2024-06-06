@@ -1,0 +1,3 @@
+streamli
+gensim
+PyPDF2
